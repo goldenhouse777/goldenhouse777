@@ -104,15 +104,6 @@ Here are some areas where I showcase my engineering work:
 *Replace these categories with links to your strongest public repositories, including a short description of each project's impact, architecture, and technologies.*
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=github_dark)
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with engineers, researchers, founders, and teams building impactful products with AI and modern software engineering.
