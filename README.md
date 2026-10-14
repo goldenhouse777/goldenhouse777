@@ -1,6 +1,4 @@
-# 👋 Hi, I'm a Full-Stack AI Engineer
-
-### Full-Stack AI Engineer | Python & ML Developer | Fintech & Healthcare
+# 👋 Full-Stack AI Engineer | Python & ML Developer | Fintech & Healthcare
 
 🚀 Building intelligent, scalable, and production-ready applications with **AI, Machine Learning, Python, and modern full-stack technologies.**
 
